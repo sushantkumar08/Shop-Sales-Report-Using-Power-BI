@@ -1,4 +1,4 @@
-# Shop Sales Report PowerBi
+# Shop Sales Report PowerBI
 This is a repository for visualization of sales in a shop by different categories.
 
 # :man_student:Dashboard:joystick:
