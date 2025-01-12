@@ -7,4 +7,4 @@ This is a repository for visualization of sales in a shop by different categorie
 <hr />
 <br />
 
-# <div align="center">Please leave a star if you like it⭐️</div>
+
